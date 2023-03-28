@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="0.9373 -2.1098 -3.0091 7.8802 0.1050 6.3583" targetId="00d9c26787fe4a4eac7f57e4c8130171" name="festo" pathAuthoring="00d9c26787fe4a4eac7f57e4c8130171_authoring.glb" pathOcclusion="00d9c26787fe4a4eac7f57e4c8130171_occlusion.3dt" pathNavMesh="00d9c26787fe4a4eac7f57e4c8130171_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
